@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item android:id="@+id/menuconfig" android:title="Configuracion"></item>-->
+<!--    <item android:id="@+id/menualta" android:title="Alta" app:showAsAction="always" android:icon="@drawable/ic_launcher_foreground"></item>-->
+<!--    <item android:id="@+id/menumodif" android:title="Modificar" ></item>-->
+</menu>

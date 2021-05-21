@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recuperatiorio</string>
+    <string name="tv_marca">Marca del auto</string>
+    <string name="tv_modelo">Modelo del auto</string>
+    <string name="tv_year">Anio: </string>
+    <string name="title_editar">Editar Auto</string>
+    <string name="btn_editar">Editar</string>
+    <string name="txt_marca">Marca</string>
+    <string name="txt_modelo">Modelo</string>
+</resources>

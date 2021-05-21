@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Recuperatory</string>
+    <string name="tv_marca">Brand of car</string>
+    <string name="tv_modelo">Model of car</string>
+    <string name="tv_year">Year: </string>
+    <string name="title_editar">Edit Car</string>
+    <string name="btn_editar">Edit</string>
+    <string name="txt_marca">Brand</string>
+    <string name="txt_modelo">Model</string>
+</resources>
